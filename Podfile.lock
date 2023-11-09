@@ -1,0 +1,24 @@
+PODS:
+  -  AIgenerator (5.8.0)
+  - KeychainAccess (4.2.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  -  AIgenerator
+  - KeychainAccess
+  - SVProgressHUD (~> 2.2.5)
+
+SPEC REPOS:
+  trunk:
+    -  AIgenerator
+    - KeychainAccess
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+   AIgenerator: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 55af048eaac2e36b89f8196a88bfb72c91cc8398
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,6 @@
+framework module  AIgenerator {
+  umbrella header " AIgenerator-umbrella.h"
+
+  export *
+  module * { export * }
+}
